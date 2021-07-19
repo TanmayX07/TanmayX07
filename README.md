@@ -1,7 +1,7 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Tanmay Shukla ! <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Tanmay_Shukla_?label=Follow)](https://twitter.com/intent/follow?screen_name=Tanmay Shukla)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Tanmay_Shukla_?label=Follow)](https://twitter.com/intent/follow?screen_name=Tanmay_Shukla_)
 
 ![GitHub followers](https://img.shields.io/github/followers/TanmayX07?label=Follow&style=social)
 
