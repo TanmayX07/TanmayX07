@@ -1,9 +1,9 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm Tanmay Shukla ! <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Tanmay_Shukla_?label=Follow)](https://twitter.com/intent/follow?screen_name=Tanmay_Shukla_)
-
-![GitHub followers](https://img.shields.io/github/followers/TanmayX07?label=Follow&style=social)
+#### 📫 How to reach me:
+  
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Tanmay_Shukla_)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tanmayshukla-/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/tanmay_shukla_/)  &nbsp; <a href="mailto:tanmayshukla20@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
